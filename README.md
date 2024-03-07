@@ -29,6 +29,6 @@ Technologies used in the project:
 *   Express.js
 *   Socket.js
 
-<h2>🛡️ License:</h2>
+<h2>💖Like my work?</h2>
 
-This project is licensed under the This project is licensed under the Copyright © \[2024\] \[islamMohamed\] Permission is hereby granted free of charge to any person obtaining a copy of this software and associated documentation files Enjoy. https://www.linkedin.com/in/islam29/
+If you are one of the people who liked the project and benefited from it in any way please put a star and contribute to raising my account on LinkedIn by following me.<p>https://www.linkedin.com/in/islam29/</p>
